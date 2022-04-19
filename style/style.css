@@ -1,0 +1,22 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: black;
+}
+
+.card {
+  width: 20em;
+  margin-top: 10em;
+  background-color: #205555;
+  padding: 2em;
+  border-radius: 20px;
+}
+
+#characters {
+  margin: 0.5em;
+  border-radius: 5px;
+  outline: none;
+}
+
+/*# sourceMappingURL=style.css.map */
